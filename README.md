@@ -6,3 +6,4 @@
 [Lab 04](https://classroom.github.com/a/efzf32iF) - Random walk & fitting [solution](https://github.com/NumSim2026/lab04)  
 [Lab 05](https://classroom.github.com/a/umm6Q5Qg) - Fraction class  [solution](https://github.com/NumSim2026/lab05)  
 [Lab 06](https://classroom.github.com/a/R5gs454p) - Monte Carlo Integration  [solution](https://github.com/NumSim2026/lab06)  
+[Lab 07](https://classroom.github.com/a/ZEZtbEno) - FFTW
