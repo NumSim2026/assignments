@@ -8,5 +8,5 @@
 [Lab 06](https://classroom.github.com/a/R5gs454p) - Monte Carlo Integration  [solution](https://github.com/NumSim2026/lab06)  
 [Lab 07](https://classroom.github.com/a/ZEZtbEno) - FFTW  [solution](https://github.com/NumSim2026/lab07)  
 [Lab 08](https://classroom.github.com/a/1cwNXvAz) - Eigen , Advection equation [solution](https://github.com/NumSim2026/lab08)  
-
+[Lab 09](https://classroom.github.com/a/W0gwe7gs) - Burgers equation
 
