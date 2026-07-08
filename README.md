@@ -9,5 +9,5 @@
 [Lab 07](https://classroom.github.com/a/ZEZtbEno) - FFTW  [solution](https://github.com/NumSim2026/lab07)  
 [Lab 08](https://classroom.github.com/a/1cwNXvAz) - Eigen , Advection equation [solution](https://github.com/NumSim2026/lab08)  
 [Lab 09](https://classroom.github.com/a/W0gwe7gs) - Burgers equation [solution](https://github.com/NumSim2026/lab09)  
-[Lab 10](https://classroom.github.com/a/g-e7GXBD) - Diffusion equation [solution](https://github.com/NumSim2026/lab10)
+[Lab 10](https://classroom.github.com/a/g-e7GXBD) - Diffusion equation [solution](https://github.com/NumSim2026/lab10)  
 [Lab 11](https://classroom.github.com/a/gcd-q5Yr) - Schrödinger equation 
