@@ -12,3 +12,4 @@
 [Lab 10](https://classroom.github.com/a/g-e7GXBD) - Diffusion equation [solution](https://github.com/NumSim2026/lab10)  
 [Lab 11](https://classroom.github.com/a/gcd-q5Yr) - Schrödinger equation [solution](https://github.com/NumSim2026/lab11)  
 [Lab 12](https://classroom.github.com/a/HXthR5TU) - Nonlinear Schrödinger equation [solution](https://github.com/NumSim2026/lab12)  
+[Lab 13](https://classroom.github.com/a/d941ty_f) - OpenMP
